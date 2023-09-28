@@ -1,5 +1,7 @@
 # dataPy
 
+<img width="1440" alt="Screenshot 2023-09-27 at 10 38 55 PM" src="https://github.com/brandonadams21/dataPy/assets/91564475/72f21234-80d5-4f75-82b0-c609549e5c7c">
+
 ## Data Graphing in Python using plotly and data from firestore
 
 - [dataPy](#dataPy)
@@ -41,12 +43,12 @@ Need to have a Google Firebase setup in order to use this repo. You may adjust t
 - Visit the official Python website at https://www.python.org/downloads/
 
 #### Check the version after install
-- python --version
+- python3 --version
 
 ## Usage 
 
 #### To run this file, run 
-- python dataGraph.py
+- python3 dataGraph.py
 
 ## Contributing
 
