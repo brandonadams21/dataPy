@@ -4,7 +4,7 @@ import requests
 
 
 ## Firestore url for data
-data_url = "https://firestore.googleapis.com/v1/projects/sat-saas/databases/(default)/documents/testCSJ/2023-05-17/SHOTS?pageSize=300"
+data_url = YOUR_FIREBASE_URL;
 
 ## fetch all of the data
 response = requests.get(data_url)
